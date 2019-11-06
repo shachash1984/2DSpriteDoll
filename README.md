@@ -1,2 +1,3 @@
-#2D Sprite 
-Test project
+# 2DSpriteDoll
+Sprite Test Project
+
